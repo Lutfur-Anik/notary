@@ -1,0 +1,50 @@
+header{
+background-color: white;
+}
+.wrapper{
+overflow: hidden;
+width:85%;
+margin: 0 auto;
+}
+.logo1{
+	background-color:#535D69;
+	width: 100%;
+	float: left;
+
+}
+.logo1 img{
+	margin: 0 auto;
+	width: 100%;
+	
+}
+.logo2{
+	width: 20%;
+	float: left ;
+}
+.logo2 img{
+	width: 100%;
+}
+.menu{
+width: 65%;
+float: right;
+margin-top: 10px;
+
+}
+.menu ul{
+
+}
+.menu ul li{
+float: left;
+list-style: none;
+}
+.menu ul li a{
+	display: inline-block;
+	padding:0 8px;
+	font-size: 14px;
+	font-family: sans-serif;
+	color: #535353;
+	text-decoration: none;
+}
+#doc{
+color: #C64065;
+}
